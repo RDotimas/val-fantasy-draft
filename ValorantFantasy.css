@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.statsTable {
+    margin-top: 20px;
+}
+
+.tableHeader {
+    background-color: teal;
+}
+
+th,td {
+    border: 1px solid black;
+    padding: 5px;
+}
